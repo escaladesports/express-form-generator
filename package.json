@@ -1,6 +1,6 @@
 {
   "name": "express-form-generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Easily generate, route, and renders forms in Express.js",
   "main": "index.js",
   "repository": "https://github.com/escaladesports/express-form-generator.git",
